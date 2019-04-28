@@ -1,0 +1,562 @@
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次实验/172011-13-5.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第八次课堂作业/172011-13-8.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次大作业/172011-13-5.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次实验/29987007_4890281_2988172.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第七次课堂作业/172011-13-7.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/实验源码/172011-13-1.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次大作业/172011-13-2.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次课堂作业/172011-13-1.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第九次课堂作业/172011-13-9.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次课堂作业/172011-13-2.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201406-鲍泽宇.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201229-章子龙.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201128-曾祥发.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201318-宁兴国.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201208-杜辉.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201119-娄锐.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201306-陈超.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201109-付少宣.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201309-樊浪.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201302-郭润泽.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201126-杨子威.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201202-宋然.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201320-王亮.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201123-谢雨豪.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201321-吴新悦.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201328-曾志康.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201313-黄志辉.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201222-谢宇欣.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/14201132-安宏宝.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201317-刘欢.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201304-蔡岩奇.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/15201432-李大伟.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201207-程子祥.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201105-杨宇菲.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201211-胡美寅.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201117-刘家琨.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201312-黄韦德.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201212-黄兴.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/13201107-王浩.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201103-吴少阳.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201224-许志伟.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201111-郭锋.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201324-谢杰辉.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201217-潘金明.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201303-单政.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201218-饶启晨.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201228-曾凯平.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201226-叶栋梁.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201503-张晓.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201102-杨思成.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201203-李旭升.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201104-徐张乐.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201231-王斯博.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201319-裴光伟.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201325-徐志超.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201327-殷文豪.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201205-蓝基银.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201114-梁细宽.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201330-邬凯胜.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201308-程家浪.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201220-王皓.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201201-张小梅.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201115-刘芳威.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201209-高晟.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201120-彭明明.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201203-游紫萍.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201232-吕泽淼.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201311-胡智东.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201509-方佳豪.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201118-刘金涛.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201315-李爽.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201116-刘辅强.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201230-周光勇.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201301-万蔚.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201112-李国梁.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201216-罗雯.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201101-崔文思.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201110-高浚杰.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201127-易天明.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201215-楼畅.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201113-李欢.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201323-肖祖辉.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201210-贺诚.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201219-施增辉.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201223-徐武亮.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201227-俞创维.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201329-詹建伟.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201130-邹超.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201213-兰翌星.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201310-何明沪.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201316-李永康.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201131-刘润石.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201107-丁闽振.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201214-黎子罗.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201204-胡钧博.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201124-徐博懿.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201129-章文贵.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201305-李鑫杰.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201121-任晨昊.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201108-冯轩.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201307-陈宇杰.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201225-姚炜璇.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201314-江文俊.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201122-谢嘉成.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201106-李雨时/MathExpr.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第六次课堂作业/172011-13-6.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次实验/172011-13-4.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次课堂作业/172011-13-3.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次大作业/172011-13-4.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次课堂作业/172011-13-4.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次实验/172011-13-2.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次大作业/172011-13-3.zip
+'str' object has no attribute 'decode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次课堂作业/172011-13-5.zip
+'gbk' codec can't encode character '\u2591' in position 10: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次实验/172011-13-5.zip
+'gbk' codec can't encode character '\u2591' in position 13: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第八次课堂作业/172011-13-8.zip
+'gbk' codec can't encode character '\xb5' in position 9: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次大作业/172011-13-5.zip
+'gbk' codec can't encode character '\xc9' in position 10: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次实验/29987007_4890281_2988172.zip
+'gbk' codec can't encode character '\u2591' in position 13: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第七次课堂作业/172011-13-7.zip
+'gbk' codec can't encode character '\xbc' in position 11: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/实验源码/172011-13-1.zip
+'gbk' codec can't encode character '\xc9' in position 10: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次大作业/172011-13-2.zip
+'gbk' codec can't encode character '\xb5' in position 9: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次课堂作业/172011-13-1.zip
+'gbk' codec can't encode character '\xc9' in position 10: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第九次课堂作业/172011-13-9.zip
+'gbk' codec can't encode character '\xd6' in position 10: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次课堂作业/172011-13-2.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201406-鲍泽宇.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201229-章子龙.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201128-曾祥发.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201318-宁兴国.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201208-杜辉.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201119-娄锐.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201306-陈超.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201109-付少宣.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201309-樊浪.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201302-郭润泽.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201126-杨子威.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201202-宋然.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201320-王亮.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201123-谢雨豪.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201321-吴新悦.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201328-曾志康.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201313-黄志辉.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201222-谢宇欣.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/14201132-安宏宝.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201317-刘欢.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201304-蔡岩奇.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/15201432-李大伟.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201207-程子祥.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201105-杨宇菲.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201211-胡美寅.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201117-刘家琨.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201312-黄韦德.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201212-黄兴.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/13201107-王浩.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201103-吴少阳.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201224-许志伟.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201111-郭锋.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201324-谢杰辉.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201217-潘金明.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201303-单政.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201218-饶启晨.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201228-曾凯平.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201226-叶栋梁.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201503-张晓.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201102-杨思成.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201203-李旭升.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201104-徐张乐.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201231-王斯博.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201319-裴光伟.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201325-徐志超.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201327-殷文豪.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201205-蓝基银.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201114-梁细宽.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201330-邬凯胜.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201308-程家浪.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201220-王皓.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201201-张小梅.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201115-刘芳威.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201209-高晟.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201120-彭明明.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201203-游紫萍.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201232-吕泽淼.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201311-胡智东.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201509-方佳豪.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201118-刘金涛.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201315-李爽.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201116-刘辅强.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201230-周光勇.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201301-万蔚.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201112-李国梁.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201216-罗雯.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201101-崔文思.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201110-高浚杰.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201127-易天明.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201215-楼畅.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201113-李欢.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201323-肖祖辉.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201210-贺诚.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201219-施增辉.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201223-徐武亮.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201227-俞创维.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201329-詹建伟.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201130-邹超.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201213-兰翌星.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201310-何明沪.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201316-李永康.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201131-刘润石.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201107-丁闽振.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201214-黎子罗.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201204-胡钧博.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201124-徐博懿.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201129-章文贵.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201305-李鑫杰.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201121-任晨昊.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201108-冯轩.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201307-陈宇杰.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201225-姚炜璇.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201314-江文俊.zip
+'gbk' codec can't encode character '\xbb' in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201122-谢嘉成.zip
+a bytes-like object is required, not 'str'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201106-李雨时/MathExpr.zip
+'gbk' codec can't encode character '\xbf' in position 10: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第六次课堂作业/172011-13-6.zip
+'gbk' codec can't encode character '\xbf' in position 10: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次实验/172011-13-4.zip
+'gbk' codec can't encode character '\xbc' in position 11: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次课堂作业/172011-13-3.zip
+'gbk' codec can't encode character '\xd6' in position 10: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次大作业/172011-13-4.zip
+'gbk' codec can't encode character '\xbf' in position 10: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次课堂作业/172011-13-4.zip
+'gbk' codec can't encode character '\xb5' in position 12: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次实验/172011-13-2.zip
+'gbk' codec can't encode character '\xe2' in position 10: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次大作业/172011-13-3.zip
+'gbk' codec can't encode character '\u2591' in position 13: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次课堂作业/172011-13-5.zip
+'gbk' codec can't decode byte 0xa3 in position 17: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次实验/172011-13-5.zip
+'gbk' codec can't decode byte 0x85 in position 17: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第八次课堂作业/172011-13-8.zip
+'gbk' codec can't decode byte 0xb6 in position 17: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次大作业/172011-13-5.zip
+'gbk' codec can't decode byte 0xa6 in position 17: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次实验/29987007_4890281_2988172.zip
+'gbk' codec can't decode byte 0x85 in position 17: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第七次课堂作业/172011-13-7.zip
+'gbk' codec can't decode byte 0xac in position 11: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/实验源码/172011-13-1.zip
+'gbk' codec can't decode byte 0xa6 in position 17: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次大作业/172011-13-2.zip
+'gbk' codec can't decode byte 0x87 in position 17: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次课堂作业/172011-13-1.zip
+'gbk' codec can't decode byte 0xa6 in position 17: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第九次课堂作业/172011-13-9.zip
+'gbk' codec can't decode byte 0xae in position 13: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次课堂作业/172011-13-2.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201406-鲍泽宇.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201229-章子龙.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201128-曾祥发.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201318-宁兴国.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201208-杜辉.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201119-娄锐.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201306-陈超.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201109-付少宣.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201309-樊浪.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201302-郭润泽.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201126-杨子威.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201202-宋然.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201320-王亮.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201123-谢雨豪.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201321-吴新悦.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201328-曾志康.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201313-黄志辉.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201222-谢宇欣.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/14201132-安宏宝.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201317-刘欢.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201304-蔡岩奇.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/15201432-李大伟.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201207-程子祥.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201105-杨宇菲.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201211-胡美寅.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201117-刘家琨.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201312-黄韦德.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201212-黄兴.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/13201107-王浩.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201103-吴少阳.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201224-许志伟.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201111-郭锋.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201324-谢杰辉.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201217-潘金明.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201303-单政.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201218-饶启晨.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201228-曾凯平.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201226-叶栋梁.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201503-张晓.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201102-杨思成.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201203-李旭升.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201104-徐张乐.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201231-王斯博.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201319-裴光伟.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201325-徐志超.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201327-殷文豪.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201205-蓝基银.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201114-梁细宽.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201330-邬凯胜.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201308-程家浪.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201220-王皓.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201201-张小梅.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201115-刘芳威.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201209-高晟.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201120-彭明明.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201203-游紫萍.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201232-吕泽淼.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201311-胡智东.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201509-方佳豪.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201118-刘金涛.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201315-李爽.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201116-刘辅强.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201230-周光勇.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201301-万蔚.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201112-李国梁.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201216-罗雯.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201101-崔文思.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201110-高浚杰.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201127-易天明.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201215-楼畅.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201113-李欢.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201323-肖祖辉.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201210-贺诚.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201219-施增辉.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201223-徐武亮.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201227-俞创维.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201329-詹建伟.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201130-邹超.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201213-兰翌星.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201310-何明沪.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201316-李永康.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201131-刘润石.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201107-丁闽振.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201214-黎子罗.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201204-胡钧博.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201124-徐博懿.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201129-章文贵.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201305-李鑫杰.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201121-任晨昊.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201108-冯轩.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201307-陈宇杰.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201225-姚炜璇.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201314-江文俊.zip
+'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201122-谢嘉成.zip
+'gbk' codec can't decode byte 0xae in position 13: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第六次课堂作业/172011-13-6.zip
+'gbk' codec can't decode byte 0xa5 in position 17: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次实验/172011-13-4.zip
+'gbk' codec can't decode byte 0xac in position 11: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次课堂作业/172011-13-3.zip
+'gbk' codec can't decode byte 0xac in position 13: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次大作业/172011-13-4.zip
+'gbk' codec can't decode byte 0xa2 in position 13: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次课堂作业/172011-13-4.zip
+'gbk' codec can't decode byte 0x8a in position 17: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次实验/172011-13-2.zip
+'gbk' codec can't decode byte 0xad in position 11: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次大作业/172011-13-3.zip
+'gbk' codec can't decode byte 0x85 in position 17: illegal multibyte sequence/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次课堂作业/172011-13-5.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次实验/172011-13-5.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第八次课堂作业/172011-13-8.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次大作业/172011-13-5.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次实验/29987007_4890281_2988172.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第七次课堂作业/172011-13-7.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/实验源码/172011-13-1.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次大作业/172011-13-2.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次课堂作业/172011-13-1.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第九次课堂作业/172011-13-9.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次课堂作业/172011-13-2.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201406-鲍泽宇.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201229-章子龙.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201128-曾祥发.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201318-宁兴国.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201208-杜辉.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201119-娄锐.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201306-陈超.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201109-付少宣.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201309-樊浪.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201302-郭润泽.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201126-杨子威.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201202-宋然.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201320-王亮.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201123-谢雨豪.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201321-吴新悦.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201328-曾志康.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201313-黄志辉.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201222-谢宇欣.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/14201132-安宏宝.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201317-刘欢.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201304-蔡岩奇.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/15201432-李大伟.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201207-程子祥.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201105-杨宇菲.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201211-胡美寅.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201117-刘家琨.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201312-黄韦德.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201212-黄兴.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/13201107-王浩.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201103-吴少阳.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201224-许志伟.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201111-郭锋.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201324-谢杰辉.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201217-潘金明.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201303-单政.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201218-饶启晨.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201228-曾凯平.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201226-叶栋梁.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201503-张晓.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201102-杨思成.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201203-李旭升.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201104-徐张乐.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201231-王斯博.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201319-裴光伟.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201325-徐志超.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201327-殷文豪.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201205-蓝基银.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201114-梁细宽.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201330-邬凯胜.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201308-程家浪.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201220-王皓.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201201-张小梅.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201115-刘芳威.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201209-高晟.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201120-彭明明.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201203-游紫萍.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201232-吕泽淼.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201311-胡智东.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201509-方佳豪.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201118-刘金涛.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201315-李爽.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201116-刘辅强.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201230-周光勇.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201301-万蔚.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201112-李国梁.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201216-罗雯.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201101-崔文思.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201110-高浚杰.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201127-易天明.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201215-楼畅.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201113-李欢.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201323-肖祖辉.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201210-贺诚.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201219-施增辉.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201223-徐武亮.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201227-俞创维.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201329-詹建伟.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201130-邹超.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201213-兰翌星.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201310-何明沪.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201316-李永康.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201131-刘润石.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201107-丁闽振.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201214-黎子罗.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201204-胡钧博.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201124-徐博懿.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201129-章文贵.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201305-李鑫杰.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201121-任晨昊.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201108-冯轩.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201307-陈宇杰.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201225-姚炜璇.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201314-江文俊.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201122-谢嘉成.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第六次课堂作业/172011-13-6.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次实验/172011-13-4.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次课堂作业/172011-13-3.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次大作业/172011-13-4.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次课堂作业/172011-13-4.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次实验/172011-13-2.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次大作业/172011-13-3.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次课堂作业/172011-13-5.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次实验/172011-13-5.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第八次课堂作业/172011-13-8.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次大作业/172011-13-5.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次实验/29987007_4890281_2988172.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第七次课堂作业/172011-13-7.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/实验源码/172011-13-1.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次大作业/172011-13-2.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次课堂作业/172011-13-1.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第九次课堂作业/172011-13-9.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次课堂作业/172011-13-2.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201406-鲍泽宇.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201229-章子龙.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201128-曾祥发.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201318-宁兴国.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201208-杜辉.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201119-娄锐.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201306-陈超.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201109-付少宣.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201309-樊浪.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201302-郭润泽.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201126-杨子威.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201202-宋然.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201320-王亮.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201123-谢雨豪.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201321-吴新悦.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201328-曾志康.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201313-黄志辉.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201222-谢宇欣.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/14201132-安宏宝.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201317-刘欢.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201304-蔡岩奇.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/15201432-李大伟.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201207-程子祥.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201105-杨宇菲.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201211-胡美寅.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201117-刘家琨.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201312-黄韦德.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201212-黄兴.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/13201107-王浩.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201103-吴少阳.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201224-许志伟.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201111-郭锋.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201324-谢杰辉.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201217-潘金明.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201303-单政.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201218-饶启晨.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201228-曾凯平.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201226-叶栋梁.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201503-张晓.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201102-杨思成.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201203-李旭升.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201104-徐张乐.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201231-王斯博.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201319-裴光伟.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201325-徐志超.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201327-殷文豪.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201205-蓝基银.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201114-梁细宽.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201330-邬凯胜.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201308-程家浪.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201220-王皓.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201201-张小梅.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201115-刘芳威.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201209-高晟.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201120-彭明明.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201203-游紫萍.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201232-吕泽淼.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201311-胡智东.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/16201509-方佳豪.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201118-刘金涛.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201315-李爽.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201116-刘辅强.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201230-周光勇.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201301-万蔚.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201112-李国梁.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201216-罗雯.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201101-崔文思.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201110-高浚杰.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201127-易天明.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201215-楼畅.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201113-李欢.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201323-肖祖辉.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201210-贺诚.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201219-施增辉.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201223-徐武亮.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201227-俞创维.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201329-詹建伟.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201130-邹超.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201213-兰翌星.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201310-何明沪.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201316-李永康.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201131-刘润石.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201107-丁闽振.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201214-黎子罗.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201204-胡钧博.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201124-徐博懿.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201129-章文贵.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201305-李鑫杰.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201121-任晨昊.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201108-冯轩.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201307-陈宇杰.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201225-姚炜璇.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201314-江文俊.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第一次大作业/172011-13-1/17201122-谢嘉成.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第六次课堂作业/172011-13-6.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次实验/172011-13-4.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次课堂作业/172011-13-3.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次大作业/172011-13-4.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第四次课堂作业/172011-13-4.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第二次实验/172011-13-2.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第三次大作业/172011-13-3.zip
+'bytes' object has no attribute 'encode'/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次课堂作业/172011-13-5.zip
