@@ -5,7 +5,6 @@
 # @Software: PyCharm
 
 
-# 代码属性度量
 import re
 
 import pygments.lexers
@@ -90,6 +89,7 @@ def turn(str):
     str = str.replace('[', '\[')
     str = str.replace(']', '\]')
     str = str.replace('+', '\+')
+    str = str.replace('*', '\*')
     return str
 
 if __name__ == '__main__':

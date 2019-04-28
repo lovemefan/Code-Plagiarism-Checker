@@ -47,8 +47,6 @@ def fingerprints(arr, winSize = 4):
         if not currMin == prevMin:
             fingerprintList.append(arr[currMin])
             prevMin = currMin
-    print('---------')
-    print(fingerprintList)
     return fingerprintList
 
 #根据k-gram字符序列生成对应的hash序列
@@ -60,7 +58,7 @@ def hashList(arr):
     return HL
 
 # 检测抄袭
-def plagiarismCheck(file1, file2,k=17, w=6):
+def plagiarismCheck(file1, file2,k=5, w=4):
     f1 = open(file1, "r")
     # tokenize 和为cleanUP中代码预处理的方法
     token1 = tokenize(file1)
@@ -78,11 +76,8 @@ def plagiarismCheck(file1, file2,k=17, w=6):
     print(fpList1)
     print(fpList1.__len__())
     fpList2 = fingerprints(HL2, winSize=w)
-    start = []
-    end = []
     # 原代码
     code = f1.read()
-    newCode = ""
     points = []
     for i in fpList1:
         for j in fpList2:
@@ -95,7 +90,6 @@ def plagiarismCheck(file1, file2,k=17, w=6):
                 newStart = kGrams1[match][2]
                 # 结束位置
                 newEnd = kGrams1[match][3]
-                startx=endx=0
                 for k in token1:
                     if k[2] == newStart:
                         startx = k[1]
@@ -128,7 +122,7 @@ def plagiarismCheck(file1, file2,k=17, w=6):
                 newCode = newCode + code[mergedPoints[i][1]: mergedPoints[i+1][0]]
             else:
                 newCode = newCode + code[mergedPoints[i][1]:]
-    # print("代码相似率大约为: ", (plagCount/len(code)))
+    print("代码相似率大约为: ", (plagCount/len(code)))
     # print(newCode)
     return plagCount/len(code)
 

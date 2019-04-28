@@ -57,6 +57,6 @@ def randomcolor():
 if __name__ == '__main__':
     fn1 = '/home/lovemefan/文档/a.java'
     fn2 = '/home/lovemefan/文档/b.java'
-    # k_value(fn1, fn2)
+    k_value(fn1, fn2)
 
-    W1_W2(fn1, fn2)
+    # W1_W2(fn1, fn2)
