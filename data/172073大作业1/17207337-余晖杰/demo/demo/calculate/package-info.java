@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author hasee
- *
- */
-package calculate;

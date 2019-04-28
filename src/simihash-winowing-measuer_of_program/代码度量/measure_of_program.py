@@ -77,6 +77,7 @@ def properties(code):
     condition_count = re.findall('if',code).__len__()
     result.append(condition_count)
 
+
     return result
 
 # 转义操作符
