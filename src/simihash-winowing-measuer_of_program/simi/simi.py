@@ -16,10 +16,12 @@ def simi(file1, file2, k=5, w=4, w1=0.4, w2=0.3, w3=0.3) :
     str2 = toText(token2)
     simhash1 = Simhash(str1)
     simhash2 = Simhash(str2)
+    print('---simhash---')
     print(simhash1.value)
     # simhash距离和winnowing相似度
     simhash_distance = simhash1.distance(simhash2)
     winnowing = plagiarismCheck(file1, file2, k=k, w=w)
+
     print(winnowing)
     x = properties(f1.read())
     y = properties(f2.read())

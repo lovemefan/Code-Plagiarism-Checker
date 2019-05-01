@@ -72,12 +72,13 @@ def plagiarismCheck(file1, file2,k=5, w=4):
     HL1 = hashList(kGrams1)
     HL2 = hashList(kGrams2)
     fpList1 = fingerprints(HL1, winSize=w)
-    print('-----figprint----')
-    print(fpList1)
-    print(fpList1.__len__())
     fpList2 = fingerprints(HL2, winSize=w)
+    start = []   #to store the start values corresponding to matching fingerprints
+    end = []   #to store end values
+    code = f1.read()  #original code
+    newCode = ""   #code with marked plagiarized content
+    points = []
     # 原代码
-    code = f1.read()
     points = []
     for i in fpList1:
         for j in fpList2:
@@ -91,20 +92,28 @@ def plagiarismCheck(file1, file2,k=5, w=4):
                 # 结束位置
                 newEnd = kGrams1[match][3]
                 for k in token1:
+                    # print(k)
+                    # print(newStart)
+                    # print(newEnd )
                     if k[2] == newStart:
                         startx = k[1]
                         flag = 1
-                    if k[2] == newEnd:
+                    if k[2] <= newEnd:
                         endx = k[1]
+                        # print('---endx----')
+                        # print(endx)
                 if flag == 1:
+                    # print([startx, endx])
                     points.append([startx, endx])
     points.sort(key = lambda x: x[0])
     points = points[1:]
     mergedPoints = []
+    if points.__len__() == 0:
+        return 0
     mergedPoints.append(points[0])
     for i in range(1, len(points)):
         last = mergedPoints[len(mergedPoints) - 1]
-        if points[i][0] >= last[0] and points[i][0] <= last[1]:
+        if points[i][0] >= last[0] and points[i][0] <= last[1]: #merging overlapping regions
             if points[i][1] > last[1]:
                 mergedPoints = mergedPoints[: len(mergedPoints)-1]
                 mergedPoints.append([last[0], points[i][1]])
@@ -119,14 +128,14 @@ def plagiarismCheck(file1, file2,k=5, w=4):
             plagCount += mergedPoints[i][1] - mergedPoints[i][0]
             newCode = newCode + '\x1b[6;30;42m' + code[mergedPoints[i][0] : mergedPoints[i][1]] + '\x1b[0m'
             if i < len(mergedPoints) - 1:
-                newCode = newCode + code[mergedPoints[i][1]: mergedPoints[i+1][0]]
+                newCode = newCode + code[mergedPoints[i][1] : mergedPoints[i+1][0]]
             else:
-                newCode = newCode + code[mergedPoints[i][1]:]
+                newCode = newCode + code[mergedPoints[i][1] :]
     print("代码相似率大约为: ", (plagCount/len(code)))
     # print(newCode)
     return plagCount/len(code)
 
-
-# fn1 = input("输入文件一的路径: ")
-# fn2 = input("输入文件二的路径: ")
+#
+# fn1 = '/home/lovemefan/PycharmProjects/Plagiarism Checker/data/第五次大作业/172011-13-5/17201219-µû╜σó₧Φ╛ë/Qingqiu.java'
+# fn2 = '/home/lovemefan/PycharmProjects/Plagiarism Checker/data/172071大作业1/17207134-杨心宇/First_homework/First_homework/src/No_error/File.java'
 # plagiarismCheck(fn1, fn2)

@@ -4,54 +4,64 @@
 # @File    : init_code.py
 # @Software: PyCharm
 import os
+import queue
+import sys
+import codecs
 
-import pygments
-from pygments import lexer
 
 # 代码去除注释，空格
+from itertools import islice
+
+import kwargs as kwargs
+import pygments.lexers
+
+
 def init_code(code):
-    c = code
-    c = c.replace('{', '\n{\n').replace('}', '\n}\n')
+    code = code
     import re
     # 去除行注释
-    c = re.sub(r'^\s+|#.*|//.*', '', c, flags=re.M)
+    code = re.sub(r'^\s+|#.*|//.*', '', code, flags=re.M)
     # 去除块注释
-    c = re.sub(r'/\*.*\*/', '', c, flags=re.DOTALL)
+    code = re.sub(r'/\*.*\*/', '', code, flags=re.DOTALL)
     # 去除空白字符
-    c = re.sub(r'\s*\n+\s*', '\n', c)
+    code = re.sub(r'\s*\n+\s*', '\n', code)
     # 去除开头换行
-    c = re.sub(r'^\n', '', c)
-    tokens = lexer.get_tokens(c)
-    tokens = list(tokens)
-    result = []
-    lenT = len(tokens)
-    # 起始位置
-    start = 0
-    # 结束位置
-    end = 0
-    # 在源码中标记内容
-    for i in range(lenT):
-        if tokens[i][0] == pygments.token.Name and not i == lenT - 1 and not tokens[i + 1][1] == '(':
-            # 所有变量统一被标记为N
-            result.append(('N', start, end))
-            end += 1
-        elif tokens[i][0] in pygments.token.Literal.String:
-            # 所有字符串标记为S
-            result.append(('S', start, end))
-            end += 1
-        elif tokens[i][0] in pygments.token.Name.Function:
-            # 所有函数标记为F
-            result.append(('F', start, end))
-            end += 1
-        elif tokens[i][0] == pygments.token.Text or tokens[i][0] in pygments.token.Comment:
-            # 去掉空格和注释
-            pass
-        else:
-            result.append((tokens[i][1], start, end))
-            end += len(tokens[i][1])
-        start += len(tokens[i][1])
+    code = re.sub(r'^\n', '', code)
 
+    lexer = pygments.lexers.guess_lexer_for_filename('code.java', code)
+    tokens = lexer.get_tokens(code)
+    tokens = list(tokens)
+    result = ""
+    # 用一定的规则处理代码文本
+    for i in tokens:
+        # 将变量替换为V
+        if i[0] == pygments.token.Name:
+            result += 'V'
+        # 将数字为N
+        elif i[0] == pygments.token.Literal.Number.Integer:
+            result += 'N'
+        # 将字符串替换为S
+        elif i[0] == pygments.token.Literal.String:
+            result += 'S'
+        # 将函数名替换为F
+        elif i[0] == pygments.token.Name.Function:
+            result += 'F'
+        # 将类名替换为C
+        elif i[0] == pygments.token.Name.Class:
+            result += 'C'
+        else :
+            result += i[1]
     return result
+
+# 作业里的不同编码格式真让人不省心
+def readFile(filename):
+    try:
+        data = open(filename,'r',encoding='utf-8')
+        return data.read()
+    except UnicodeDecodeError:
+        data = open(filename,'r',encoding='gbk')
+        return data.read()
+
 
 
 # 删除无用文件和文件夹
@@ -68,6 +78,9 @@ def cleanUpfile():
             # 删除空文件夹
             print("删除空文件夹  %s..."%root)
             os.rmdir(root)
+def test_init_code():
+    code =  readFile('/home/lovemefan/PycharmProjects/Plagiarism Checker/data/172071大作业1/14207108-邹坤/test6/test6/src/test6/Checkout.java')
+    print(init_code(code))
 
 if __name__ == '__main__':
-    cleanUpfile()
+    test_init_code()

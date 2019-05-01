@@ -42,3 +42,4 @@ def tokenize(filename):
 def toText(arr):
     cleanText = ''.join(str(x[0]) for x in arr)
     return cleanText
+

@@ -90,6 +90,7 @@ def turn(str):
     str = str.replace(']', '\]')
     str = str.replace('+', '\+')
     str = str.replace('*', '\*')
+    str = str.replace('?', '\?')
     return str
 
 if __name__ == '__main__':
