@@ -11,28 +11,6 @@ import os
 import chardet
 import codecs
 
-def load_file(filename):
-    #使用encoding来表示打开文件的格式
-    try:
-        with open(filename, 'r', encoding='gbk') as fr:
-            doc = fr.read()
-
-        print('gbk ' + filename)
-    except:
-        with open(filename, 'r', encoding='utf-8') as fr:
-            doc = fr.read()
-        print('utf-8 ' + filename)
-
-    with open(filename, 'w', encoding='utf-8') as fw:
-        fw.write(doc)
-
-def change_dir(path):
-    for foldername, subfolders, filenames in os.walk(path):
-        for filename in filenames:
-            path = foldername + '/' + filename
-            load_file(path)
-
-
 def WriteFile(filePath, u, encoding="utf-8"):
     with codecs.open(filePath, "w", encoding) as f:
         f.write(u)
