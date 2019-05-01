@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# author:lovemefan
-# datetime:2019/4/30 上午10:14
-# software: PyCharm
+# @Author :lovemefan
+# @Datetime:2019/5/1 下午12:03
+# @Version: Ubuntu 18.04.2 LTS + python3.6
+# @Software: PyCharm
+
