@@ -5,7 +5,6 @@
 # software: PyCharm
 
 
-#coding = utf-8
 # 为了将作业统一编码
 import os
 import chardet
