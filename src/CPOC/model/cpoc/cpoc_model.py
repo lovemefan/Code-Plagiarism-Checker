@@ -6,61 +6,11 @@
 # @Software: PyCharm
 import os
 
-import numpy as np
 import tensorflow as tf
-import keras.preprocessing.text as T
-from keras.preprocessing.text import Tokenizer
-from keras.utils import to_categorical
-from keras_preprocessing.sequence import pad_sequences
+
+from tensorflow.contrib.layers import fully_connected
 
 from init_code import init_code
-
-
-
-def text2one_hot_result(samples):
-    num_words = 1000
-    MAX_SEQUENCE_LENGTH = 100
-    # i创建一个分词器（tokenizer），设置为只考虑前1000个最常见的单词,足够
-    tokenizer = Tokenizer(num_words=num_words)
-
-    tokenizer.fit_on_texts(samples)   # 构建索引单词
-
-    sequences = tokenizer.texts_to_sequences(samples)   # 将字符串转换为整数索引组成的列表
-
-    sequences = pad_sequences(sequences, maxlen=MAX_SEQUENCE_LENGTH)
-    one_hot = to_categorical(np.asarray(sequences))
-    # one-hot编码外其他向量化模
-    word_index = tokenizer.word_index  # 得到单词索引
-    print("单词数量为：{}".format(word_index.__len__()))
-    # print(t)
-    # for i in range(sequences.__len__()):
-    #     item = np.zeros([sum(sequences[i]), 1000])
-        # item[i, for j in sequences[i]]
-    # one_hot_results = tokenizer.texts_to_matrix(samples, mode='binary')  #可以直接得到one-hot二进制表示。这个分词器也支持除
-
-
-    print(word_index)
-    return one_hot
-
-def embedding(codes):
-    # samples = []
-    # for code in  codes:
-    #     samples.append(code)
-    return text2one_hot_result(codes)
-
-def weight_variable(shape):
-    initial = tf.truncated_normal(shape,stddev=0.1)
-    return tf.Variable(initial)
-
-def bias_variavle(shape):
-    initial = tf.constant(0.1,shape=shape)
-    return tf.Variable(initial)
-
-def conv2d(x,W):
-    return tf.nn.conv2d(x, W, strides=[1,1,1,1], padding='SAME')
-
-def max_pool_2x2(x):
-    return tf.nn.max_pool(x,ksize=[1,2,2,1], strides=[1,2,2,1],padding='SAME')
 
 
 class CPOC(object):
@@ -76,11 +26,18 @@ class CPOC(object):
         self, sequence_length, vocab_size,
         embedding_size, filter_size, num_filters, l2_reg_lambda=0.0):
         # Placeholders for input, output and dropout
+        self.sequence_length = sequence_length
+        self.vocab_size = vocab_size
+        self.embedding_size = embedding_size
+        self.filter_size = filter_size
+
         self.input_pos = tf.placeholder(tf.int32, [None, sequence_length], name="input_poc")
         self.input_doc = tf.placeholder(tf.int32, [None, sequence_length], name="input_doc")
         self.input_neg = tf.placeholder(tf.int32, [None, sequence_length], name="input_neg")
-        self.dropout_keep_prob = tf.placeholder(tf.float32, name="dropout_keep_prob")
+        self.input_measure_of_code = tf.placeholder(tf.int32, [10], name="input_neg")
 
+        self.dropout_keep_prob = tf.placeholder(tf.float32, name="dropout_keep_prob")
+        self.logits = []
         # Keeping track of l2 regularization loss (optional)
         l2_loss = tf.constant(0.0)
 
@@ -109,61 +66,127 @@ class CPOC(object):
             self.embedded_chars_neg = tf.nn.embedding_lookup(self.embedding_W3, self.input_neg)
             self.embeadded_chars_expanded_neg = tf.expand_dims(self.embedded_chars_neg, -1)
 
+        self.cpoc_conv_pool_dnn(self.embeadded_chars_expanded_doc,'doc')
+        self.cpoc_conv_pool_dnn(self.embeadded_chars_expanded_pos,'pos')
+        self.cpoc_conv_pool_dnn(self.embeadded_chars_expanded_neg,'neg')
+
+        with tf.name_scope('output'):
+            delta = self.cos_distance(self.logits[0], self.logits[1]) - self.cos_distance(self.logits[0], self.logits[2])
+
+        with tf.name_scope('loss'):
+            self.loss = delta
 
 
 
+    def cos_distance(self,x1,x2):
+        #求模
+        x1_norm = tf.sqrt(tf.reduce_sum(tf.square(x1), axis=2))
+        x2_norm = tf.sqrt(tf.reduce_sum(tf.square(x2), axis=2))
+        #内积
+        x1_x2 = tf.reduce_sum(tf.multiply(x1, x2), axis=2)
+        cosin = x1_x2 / (x1_norm * x2_norm)
+        return cosin
+
+    def cpoc_conv_pool_dnn(self,embeadded_chars_expanded,label):
         #第一层卷积
-        with tf.name_scope("conv1 pos"):
+        with tf.name_scope("conv1 %s"%label):
             # 单词数量 ， onehot矩阵长度
-            filter_shape = [filter_size, embedding_size,1, 16]
+            filter_shape = [self.filter_size, self.embedding_size,1, 16]
             # 高斯初始化
-            filter_W1_pos = tf.Variable(tf.truncated_normal(filter_shape,stddev=0.1,name='W1_pos'))
-            filter_b1 = tf.Variable(tf.constant(0.1),shape=[num_filters],name='b1_pos')
-            conv1_pos = tf.nn.conv2d(
-                self.embeadded_chars_expanded_pos,
-                filter_W1_pos,
+            filter_W1 = tf.Variable(tf.truncated_normal(filter_shape,stddev=0.1,name='W1_%s'%label))
+            filter_b1 = tf.Variable(tf.constant(0.1,shape=[16]),name='b1_%s'%label)
+            conv1 = tf.nn.conv2d(
+                embeadded_chars_expanded,
+                filter_W1 ,
                 strides='VALID',
                 name='conv1 pos'
             )
-            relu1_pos = tf.nn.relu(tf.nn.bias_add(conv1_pos,filter_b1), name='relu pos')
+            relu1  = tf.nn.relu(tf.nn.bias_add(conv1 ,filter_b1), name='relu pos')
         # 第二层卷积
         with tf.name_scope("conv2 pos"):
             # 单词数量 ， onehot矩阵长度
-            filter_shape = [filter_size,embedding_size,16, 64]
+            filter_shape = [self.filter_size,self.embedding_size,16, 64]
             # 高斯初始化
-            filter_W2_pos = tf.Variable(tf.truncated_normal(filter_shape,stddev=0.1,name='W2_pos'))
-            filter_b2 = tf.Variable(tf.constant(0.1),shape=[num_filters],name='b2_pos')
-            conv2_pos = tf.nn.conv2d(
-                relu1_pos,
-                filter_W2_pos,
+            filter_W2  = tf.Variable(tf.truncated_normal(filter_shape,stddev=0.1,name='W2 %s'%label))
+            filter_b2 = tf.Variable(tf.constant(0.1,shape=[64]),name='b2 %s'%label)
+            conv2  = tf.nn.conv2d(
+                relu1 ,
+                filter_W2 ,
                 strides='VALID',
                 name='conv2 pos'
             )
-            relu2_pos = tf.nn.relu(tf.nn.bias_add(conv2_pos,filter_b2), name='relu2 pos')
+            relu2  = tf.nn.relu(tf.nn.bias_add(conv2 ,filter_b2), name='relu2 pos')
         # 池化层
         with tf.name_scope("Max pool1 pos"):
-            pooled = tf.nn.max_pool(
-                relu2_pos,
-                ksize=[1, sequence_length - filter_size + 1, 1, 1],
+            pooled1 = tf.nn.max_pool(
+                relu2 ,
+                ksize=[1, self.sequence_length - self.filter_size + 1, 1, 1],
                 strides=[1, 1, 1, 1],
                 padding='VALID',
                 name="pool")
-            print('Pooled:{}'.format(pooled))
+            print('Pooled:{}'.format(pooled1))
+        #第三层卷积
+        with tf.name_scope("conv3 pos"):
+            # 单词数量 ， onehot矩阵长度
+            filter_shape = [self.filter_size,self.embedding_size,64, 256]
+            # 高斯初始化
+            filter_W3  = tf.Variable(tf.truncated_normal(filter_shape,stddev=0.1,name='W3 %s'%label))
+            filter_b3 = tf.Variable(tf.constant(0.1,shape=[256]),name='b3 ')
+            conv3  = tf.nn.conv2d(
+                pooled1 ,
+                filter_W3 ,
+                strides='VALID',
+                name='conv3 pos'
+            )
+            relu3  = tf.nn.relu(tf.nn.bias_add(conv3 ,filter_b3), name='relu pos')
+        # 第四层卷积
+        with tf.name_scope("conv4 pos"):
+            # 单词数量 ， onehot矩阵长度
+            filter_shape = [self.filter_size,self.embedding_size,256, 512]
+            # 高斯初始化
+            filter_W4  = tf.Variable(tf.truncated_normal(filter_shape,stddev=0.1,name='W4 %s'%label))
+            filter_b4 = tf.Variable(tf.constant(0.1,shape=[512]),name='b4 %s'%label)
+            conv4  = tf.nn.conv2d(
+                relu1 ,
+                filter_W4 ,
+                strides='VALID',
+                name='conv4 pos'
+            )
+            relu4  = tf.nn.relu(tf.nn.bias_add(conv4 ,filter_b4), name='relu4 pos')
+        # 第二层池化层
+        with tf.name_scope("Max pool2 pos"):
+            pooled2 = tf.nn.max_pool(
+                relu4 ,
+                ksize=[1, self.sequence_length - self.filter_size + 1, 1, 1],
+                strides=[1, 1, 1, 1],
+                padding='VALID',
+                name="pool2")
+            print('Pooled2:{}'.format(pooled2))
 
-if __name__ == '__main__':
-    root_dir = '/home/lovemefan/PycharmProjects/data_test/第一次大作业/'
-    samples =[]
-    for root, dirs, files in os.walk(root_dir):
-        for file in files:
-            contend = open("%s/%s"%(root, file)).read()
 
-            samples.append(init_code(contend))
+        # self.h_pool = np.concatenate((pooled2.T,self.input_measure_of_code.T).T,axis=0)
+        self.h_pool = tf.concat(pooled2,self.input_measure_of_code)
+        self.h_pool_flat = tf.reshape(self.h_pool, [-1,512])
+        print('h_pool_flat:{}'.format(self.h_pool_flat))
 
-    print('读取完毕')
-    for i in  embedding(samples):
-        print(i)
-    #     for j in i:
-    #         print(j.tolist())
+        # drop层
+        with tf.name_scope("dropout"):
+            self.h_drop = tf.nn.dropout(self.h_pool_flat,self.dropout_keep_prob)
+
+        # 两层DNN层
+        with tf.name_scope("dnn"):
+            # tensorflow使用这个函数帮助我们使用合适的初始化w和b的策略，默认使用ReLU激活函数
+            hidden1 = fully_connected(self.h_drop, 512, scope="hidden1")#构建第一层隐藏层 全连接
+            hidden2 = fully_connected(hidden1, 512, scope="hidden2")#构建第二层隐藏层 全连接
+            logits1 = fully_connected(hidden2, 512, scope="outputs", activation_fn=None)#构建输出层 #注意输出层激活函数不需要
+
+        with tf.name_scope("dnn"):
+            # tensorflow使用这个函数帮助我们使用合适的初始化w和b的策略，默认使用ReLU激活函数
+            hidden3 = fully_connected(logits1, 512, scope="hidden1")
+            hidden4 = fully_connected(hidden3, 512, scope="hidden2")
+            logits2 = fully_connected(hidden4, 512, scope="outputs", activation_fn=None)#构建输出层 #注意输出层激活函数不需要
+        self.logits.append(logits2)
+
 
 
 
