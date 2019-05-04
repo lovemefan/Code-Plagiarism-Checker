@@ -6,6 +6,7 @@
 # @Software: PyCharm
 import os
 
+import logging
 import tensorflow as tf
 
 from tensorflow.contrib.layers import fully_connected
@@ -25,6 +26,12 @@ class CPOC(object):
     def __init__(
         self, sequence_length, vocab_size,
         embedding_size, filter_size, num_filters, l2_reg_lambda=0.0):
+        print('sequence_length:{}'.format(sequence_length))
+        print('vocab_size:{}'.format(vocab_size))
+        print('embedding_size:{}'.format(embedding_size))
+        print('filter_sizes:{}'.format(filter_size))
+        print('num_filters:{}'.format(num_filters))
+
         # Placeholders for input, output and dropout
         self.sequence_length = sequence_length
         self.vocab_size = vocab_size
@@ -44,21 +51,21 @@ class CPOC(object):
 
 
         # Embedding 层
-        with tf.name_scope("embedding pos"):
+        with tf.name_scope("embedding_pos"):
             # embedding 层的权重 W1
             self.embedding_W1 = tf.Variable(
                 tf.random_uniform([vocab_size, embedding_size], -1.0, 1.0),
                 name="W1")
             self.embedded_chars_pos = tf.nn.embedding_lookup(self.embedding_W1, self.input_pos)
             self.embeadded_chars_expanded_pos = tf.expand_dims(self.embedded_chars_pos, -1)
-        with tf.name_scope("embedding doc"):
+        with tf.name_scope("embedding_doc"):
             # embedding 层的权重 W2
             self.embedding_W2 = tf.Variable(
                 tf.random_uniform([vocab_size, embedding_size], -1.0, 1.0),
                 name="W2")
             self.embedded_chars_doc = tf.nn.embedding_lookup(self.embedding_W2, self.input_doc)
             self.embeadded_chars_expanded_doc = tf.expand_dims(self.embedded_chars_doc, -1)
-        with tf.name_scope("embedding neg"):
+        with tf.name_scope("embedding_neg"):
             # embedding 层的权重 W3
             self.embedding_W3 = tf.Variable(
                 tf.random_uniform([vocab_size, embedding_size], -1.0, 1.0),
@@ -89,35 +96,42 @@ class CPOC(object):
 
     def cpoc_conv_pool_dnn(self,embeadded_chars_expanded,label):
         #第一层卷积
-        with tf.name_scope("conv1 %s"%label):
+        with tf.name_scope("conv1_%s"%label):
             # 单词数量 ， onehot矩阵长度
             filter_shape = [self.filter_size, self.embedding_size,1, 16]
             # 高斯初始化
             filter_W1 = tf.Variable(tf.truncated_normal(filter_shape,stddev=0.1,name='W1_%s'%label))
             filter_b1 = tf.Variable(tf.constant(0.1,shape=[16]),name='b1_%s'%label)
+            print('embeadded_chars_expanded:{}'.format(embeadded_chars_expanded))
+            print('filter_W1:{}'.format(filter_W1))
+            print('filter_b1:{}'.format(filter_b1))
             conv1 = tf.nn.conv2d(
                 embeadded_chars_expanded,
                 filter_W1 ,
-                strides='VALID',
-                name='conv1 pos'
+                strides=[1, 1, 1, 1],
+                padding="VALID",
+                name='conv1_%s'%label
             )
-            relu1  = tf.nn.relu(tf.nn.bias_add(conv1 ,filter_b1), name='relu pos')
+            relu1  = tf.nn.relu(tf.nn.bias_add(conv1 ,filter_b1), name='relu_%s'%label)
         # 第二层卷积
-        with tf.name_scope("conv2 pos"):
+        with tf.name_scope("conv2_%s"%label):
             # 单词数量 ， onehot矩阵长度
-            filter_shape = [self.filter_size,self.embedding_size,16, 64]
+            filter_shape = [self.filter_size,1,16, 64]
             # 高斯初始化
-            filter_W2  = tf.Variable(tf.truncated_normal(filter_shape,stddev=0.1,name='W2 %s'%label))
-            filter_b2 = tf.Variable(tf.constant(0.1,shape=[64]),name='b2 %s'%label)
+            filter_W2  = tf.Variable(tf.truncated_normal(filter_shape,stddev=0.1,name='W2_%s'%label))
+            filter_b2 = tf.Variable(tf.constant(0.1,shape=[64]),name='b2_%s'%label)
+            print('relu1{}'.format(relu1))
+
             conv2  = tf.nn.conv2d(
                 relu1 ,
                 filter_W2 ,
-                strides='VALID',
-                name='conv2 pos'
+                strides=[1, 1, 1, 1],
+                padding="VALID",
+                name='conv2_%s'%label
             )
-            relu2  = tf.nn.relu(tf.nn.bias_add(conv2 ,filter_b2), name='relu2 pos')
+            relu2  = tf.nn.relu(tf.nn.bias_add(conv2 ,filter_b2), name='relu2_%s'%label)
         # 池化层
-        with tf.name_scope("Max pool1 pos"):
+        with tf.name_scope("Max_pool1_%s"%label):
             pooled1 = tf.nn.max_pool(
                 relu2 ,
                 ksize=[1, self.sequence_length - self.filter_size + 1, 1, 1],
@@ -126,35 +140,37 @@ class CPOC(object):
                 name="pool")
             print('Pooled:{}'.format(pooled1))
         #第三层卷积
-        with tf.name_scope("conv3 pos"):
+        with tf.name_scope("conv3_%s"%label):
             # 单词数量 ， onehot矩阵长度
-            filter_shape = [self.filter_size,self.embedding_size,64, 256]
+            filter_shape = [self.filter_size,1,64, 256]
             # 高斯初始化
             filter_W3  = tf.Variable(tf.truncated_normal(filter_shape,stddev=0.1,name='W3 %s'%label))
             filter_b3 = tf.Variable(tf.constant(0.1,shape=[256]),name='b3 ')
             conv3  = tf.nn.conv2d(
                 pooled1 ,
                 filter_W3 ,
-                strides='VALID',
-                name='conv3 pos'
+                strides=[1, 1, 1, 1],
+                padding="VALID",
+                name='conv3_%s'%label
             )
-            relu3  = tf.nn.relu(tf.nn.bias_add(conv3 ,filter_b3), name='relu pos')
+            relu3  = tf.nn.relu(tf.nn.bias_add(conv3 ,filter_b3), name='relu_%s'%label)
         # 第四层卷积
-        with tf.name_scope("conv4 pos"):
+        with tf.name_scope("conv4_%s"%label):
             # 单词数量 ， onehot矩阵长度
-            filter_shape = [self.filter_size,self.embedding_size,256, 512]
+            filter_shape = [self.filter_size,1,256, 512]
             # 高斯初始化
-            filter_W4  = tf.Variable(tf.truncated_normal(filter_shape,stddev=0.1,name='W4 %s'%label))
-            filter_b4 = tf.Variable(tf.constant(0.1,shape=[512]),name='b4 %s'%label)
+            filter_W4  = tf.Variable(tf.truncated_normal(filter_shape,stddev=0.1,name='W4_%s'%label))
+            filter_b4 = tf.Variable(tf.constant(0.1,shape=[512]),name='b4_%s'%label)
             conv4  = tf.nn.conv2d(
                 relu1 ,
                 filter_W4 ,
-                strides='VALID',
-                name='conv4 pos'
+                strides=[1, 1, 1, 1],
+                padding="VALID",
+                name='conv4_%s'%label
             )
-            relu4  = tf.nn.relu(tf.nn.bias_add(conv4 ,filter_b4), name='relu4 pos')
+            relu4  = tf.nn.relu(tf.nn.bias_add(conv4 ,filter_b4), name='relu4_%s'%label)
         # 第二层池化层
-        with tf.name_scope("Max pool2 pos"):
+        with tf.name_scope("Max_pool2_%s"%label):
             pooled2 = tf.nn.max_pool(
                 relu4 ,
                 ksize=[1, self.sequence_length - self.filter_size + 1, 1, 1],

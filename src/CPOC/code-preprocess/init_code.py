@@ -19,11 +19,13 @@ import pygments.lexers
 def init_code(code):
     code = code
     import re
+    # 去掉import
+    # code = re.sub(r'import .*?;', '', code)
     # 去除行注释
     code = re.sub(r'^\s+|#.*|//.*', '', code, flags=re.M)
     # 去除块注释
     code = re.sub(r'/\*.*\*/', '', code, flags=re.DOTALL)
-    # 去除空白字符
+    # 去除空白行
     code = re.sub(r'\s*\n+\s*', '\n', code)
     # 去除开头换行
     code = re.sub(r'^\n', '', code)
@@ -49,6 +51,9 @@ def init_code(code):
         # 将类名替换为C
         elif i[0] == pygments.token.Name.Class:
             result += 'C'
+        # 将包名替换为P
+        elif i[0] == pygments.token.Name.Namespace:
+            result += 'P'
         else :
             result += i[1]
     return result
@@ -78,9 +83,26 @@ def cleanUpfile():
             # 删除空文件夹
             print("删除空文件夹  %s..."%root)
             os.rmdir(root)
+
+# 生成字典
+def load_w2c_textcn_dataset(text):
+    word_list_all=[]
+    codes = text.split('\n')
+    for line in codes:
+        word_list=line.strip().split()
+        for idx, word in enumerate(word_list):
+            word_list[idx] = word_list[idx]
+            #print word_list[idx]
+            word_list_all.append(word_list[idx])
+    return word_list_all
+
+
 def test_init_code():
     code =  readFile('/home/lovemefan/PycharmProjects/Plagiarism Checker/data/172071大作业1/14207108-邹坤/test6/test6/src/test6/Checkout.java')
     print(init_code(code))
+    # dist = load_w2c_textcn_dataset(init_code(code))
+    # for i in dist:
+    #     print(i)
 
 if __name__ == '__main__':
     test_init_code()

@@ -5,9 +5,16 @@
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/simihash-winowing-measuer_of_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CPOC" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CPOC/model" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CPOC/model/cpoc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CPOC/code-preprocess" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

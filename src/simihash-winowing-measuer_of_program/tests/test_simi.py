@@ -39,5 +39,5 @@ if __name__ == '__main__':
     # fn2 ='/home/lovemefan/文档/b.java'
     # simi_value = simi(fn1, fn2)
     # print("simhash 和 winnowing 和属性加权结果：%f"%simi_value)
-    check('/home/lovemefan/PycharmProjects/Plagiarism Checker/data')
+    check('/home/lovemefan/PycharmProjects/data_test')
 
